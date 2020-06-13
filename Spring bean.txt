@@ -1,2 +1,5 @@
 this is introduction of spring bean, as you know the use of the spring bean, where all the object will be created and managed even in the on the fly sceniarion as well....
 
+
+
+1. First need to know how the autowire concept in this scenario
